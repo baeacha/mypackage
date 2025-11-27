@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+speakiCrepe/__init__.py
+speakiCrepe/core.py
+speakiCrepe.egg-info/PKG-INFO
+speakiCrepe.egg-info/SOURCES.txt
+speakiCrepe.egg-info/dependency_links.txt
+speakiCrepe.egg-info/top_level.txt
+tests/test_core.py

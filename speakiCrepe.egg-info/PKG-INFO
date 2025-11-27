@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: speakiCrepe
+Version: 0.1.1
+Summary: Simple example package
+Author-email: bte132 <chabaea@naver.com>
+License: MIT
+Project-URL: Homepage, https://github.com/bte132/speakiCrepe
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# mypackage

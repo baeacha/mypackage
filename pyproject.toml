@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools >= 61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "speakiCrepe"
+version = "0.1.1"
+description = "Simple example package"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [
+    { name = "bte132", email = "chabaea@naver.com" }
+]
+dependencies = []
+
+[project.urls]
+"Homepage" = "https://github.com/bte132/speakiCrepe"
+
+[tool.setuptools]
+packages = ["speakiCrepe"]./
